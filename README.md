@@ -10,6 +10,7 @@ Recently I read about a Q&A post on [Zhihu (a Quora-like site in China)](https:/
 ## Useful posts and papers  
 - [Metrics, Techniques and Tools of Anomaly Detection: A Survey](https://www.cse.wustl.edu/~jain/cse567-17/ftp/mttad/index.html)
 - [数据挖掘中常见的「异常检测」算法有哪些？](https://www.zhihu.com/question/280696035)
+- [Anomaly Detection: A Survey](http://cucis.ece.northwestern.edu/projects/DMS/publications/AnomalyDetection.pdf)
 
 # Practice: Credit Card Fraud Detection  
 This is a kaggle dataset, problem description goes [here](https://www.kaggle.com/mlg-ulb/creditcardfraud/version/3#). Some notes:  
